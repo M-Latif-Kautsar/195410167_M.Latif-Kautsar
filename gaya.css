@@ -1,0 +1,30 @@
+body{
+	background-color: gray;
+	margin: 50px 150px;
+}
+h1{
+	color: cyan;
+	font-family:cursive; 			
+}
+table{
+	background-color: cyan;
+	border: solid 1px;
+}
+img{
+	width: 900px;
+	background-color: gray;
+}
+.box{
+	background-color: #a5a5a5;
+	padding: 50px;
+}
+.box2{
+	border: solid 1px;
+	height: 100px;
+	width: 500px;
+	margin:0 auto
+}
+.gambar{
+	height: 200px;
+	width: 400px;
+}
